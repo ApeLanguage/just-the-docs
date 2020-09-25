@@ -28,3 +28,5 @@ fields:
   type: boolean
   label: has_toc
   default: true
+pages:
+- _posts/title.md
